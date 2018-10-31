@@ -4,3 +4,6 @@
 [submodule "start/hardmode"]
 	path = start/hardmode
 	url = git://github.com/wikitopian/hardmode.git
+[submodule "start/vim-hugo-helper"]
+	path = start/vim-hugo-helper
+	url = https://github.com/robertbasic/vim-hugo-helper.git
