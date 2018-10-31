@@ -1,0 +1,6 @@
+[submodule "start/vim-go"]
+	path = start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "start/hardmode"]
+	path = start/hardmode
+	url = git://github.com/wikitopian/hardmode.git
