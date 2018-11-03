@@ -7,3 +7,6 @@
 [submodule "start/vim-hugo-helper"]
 	path = start/vim-hugo-helper
 	url = https://github.com/robertbasic/vim-hugo-helper.git
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
